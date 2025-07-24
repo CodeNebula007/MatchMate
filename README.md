@@ -18,6 +18,8 @@ MatchMate is a clean, modern Android application built for discovering potential
 
 ## 📸 Screenshots
 
+<img width="478" height="836" alt="Screenshot 2025-07-24 at 9 02 41 PM" src="https://github.com/user-attachments/assets/6dcfec53-16ae-410f-bf9b-c7fd1a79d0bc" />
+
 
 ---
 
